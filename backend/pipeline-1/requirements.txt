@@ -1,0 +1,8 @@
+groq==1.2.0
+transformers==4.38.2
+numpy<2
+pdfplumber>=0.10.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0
+sentencepiece
